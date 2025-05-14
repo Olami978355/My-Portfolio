@@ -50,7 +50,8 @@ I have experience auditing multiple protocols across public contests and private
 
 | Contest        | Date      | Keywords                 | Findings  | Rank (Top 15 Only) | Report   |
 |---------------|----------|--------------------------|-----------|---------------------|----------|
-| Liquid Ron  | Jan 2025  | Liquid Staking, EVM, solidity | 2 M | - |
+| Kinetiq | April 2025  | LST on Hyperliquid, EVM, solidity | 1 M | - |
+| Second Swap  | Dec 2025  | Unlock liquidity for illiquid assets, EVM, solidity | 2 M | - |
 
 ## Sherlock
 
